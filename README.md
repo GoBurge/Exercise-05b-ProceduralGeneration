@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+Fixed the walls
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Griffin Burge
